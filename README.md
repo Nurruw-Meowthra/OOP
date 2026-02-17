@@ -1,1 +1,2 @@
-# OOP
+OOP põhimõtted ja põhimõisted
+Tunnitööd
